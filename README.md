@@ -43,7 +43,7 @@ MX, ES, and US refer to the variations of Alexa for the Spanish language. In Whi
 
 Data processing was conducted for the three variants of Alexa and for the Base and Large-v2 models of Whisper. The data is categorized based on gender and accent.
 
-The data used corresponds to version 14 of Mozilla Common Voice.
+The data used corresponds to version 14 of [Mozilla Common Voice.](https://commonvoice.mozilla.org)
 
 The analyzed accents are as follows:
 - **Central American**
