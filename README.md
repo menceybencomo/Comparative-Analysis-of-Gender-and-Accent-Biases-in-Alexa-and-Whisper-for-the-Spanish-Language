@@ -2,7 +2,7 @@
 
 This repository contains the data related to the article titled "Comparative Analysis of Gender and Accent Biases in Alexa and Whisper for the Spanish Language."
 
-The data structure is created using Pysondb and has the following format:
+The data structure is created using [Pysondb](https://pypi.org/project/pysondb/) and has the following format:
 
 ```
 {
