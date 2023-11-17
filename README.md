@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10152506.svg)](https://doi.org/10.5281/zenodo.10152506)
+
+
+
 # Comparative Analysis of Gender and Accent Biases in Alexa and Whisper for the Spanish Language
 
 This repository contains the data related to the article titled "Comparative Analysis of Gender and Accent Biases in Alexa and Whisper for the Spanish Language."
