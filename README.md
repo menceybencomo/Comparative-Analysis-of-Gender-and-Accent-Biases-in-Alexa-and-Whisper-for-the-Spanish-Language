@@ -4,6 +4,7 @@ This repository contains the data related to the article titled "Comparative Ana
 
 The data structure is created using Pysondb and has the following format:
 
+```
 {
    "data": [
       {
@@ -36,3 +37,22 @@ The data structure is created using Pysondb and has the following format:
       }
   ]
 }
+```
+
+MX, ES, and US refer to the variations of Alexa for the Spanish language. In Whisper, the data is stored under MX.
+
+Data processing was conducted for the three variants of Alexa and for the Base and Large-v2 models of Whisper. The data is categorized based on gender and accent.
+
+The data used corresponds to version 14 of Mozilla Common Voice.
+
+The analyzed accents are as follows:
+- **Central American**
+- **Andean-Pacific:** Colombia, Peru, Ecuador, Western Bolivia, Andean Venezuela
+- **Caribbean:** Cuba, Venezuela, Puerto Rico, Dominican Republic, Panama, Caribbean Colombia, Caribbean Mexico, Gulf Coast of Mexico
+- **Chilean:** Chile, Cuyo
+- **Northern Iberian Peninsula:** Asturias, Castilla y León, Cantabria, Basque Country, Aragon, La Rioja, Guadalajara, Cuenca
+- **Central-Southern Iberian Peninsula**: Madrid, Toledo, Castilla-La Mancha
+- **Southern Iberian Peninsula:** Andalusia, Extremadura, Murcia
+- **Canary Islands**
+- **Mexico**    
+- **Rioplatense:** Argentina, Uruguay, Eastern Bolivia, Paraguay
